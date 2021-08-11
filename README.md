@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danishdynamic
 - 👀 I’m interested in quant finanace, data science and web development.
-- 🌱 I’m currently learning reactjs.
-- 💞️ I’m looking to collaborate on projects relatedd to web development.
+- 🌱 I’m currently learning reactjs and django.
+- 💞️ I’m looking to collaborate on projects relatedd to algorithmic trading and web development.
 - 📫 reach out to me at skalidara@gmail.com
 
 <!---
