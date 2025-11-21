@@ -10,7 +10,7 @@
 | Category | Details |
 | :--- | :--- |
 | **👀 Interested In** | Data Science & Web Development |
-| **🌱 Currently Learning** | React.js, Tailwind CSS, Node.js, and Django |
+| **🌱 Currently Learning** | React.js, Tailwind CSS, Node.js, Django, etc.. |
 | **💞️ Looking to Collaborate On** | Data science, full-stack web development, etc.. |
 
 ---
