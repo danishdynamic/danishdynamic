@@ -1,8 +1,6 @@
 
 # 👋 Hello! I'm Ali dara Sk
 
----
-
 ### Passionate about crafting robust web solutions and exploring the world of data.
 
 ---
