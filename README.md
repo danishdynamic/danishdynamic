@@ -20,6 +20,6 @@
 You can reach me directly via email: **[skalidara@gmail.com](mailto:skalidara@gmail.com)**
 
 <!---
-danishdynamic/danishdynamic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+danishdynamic/danishdynamic is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
