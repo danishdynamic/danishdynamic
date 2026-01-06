@@ -9,7 +9,7 @@
 
 | Category | Details |
 | :--- | :--- |
-| **👀 Interested In** | Web Development & Data Science |
+| **👀 Interested In** | Web Development -- Data Science -- Quant Finance |
 | **🌱 Currently Learning** | React.js, Tailwind CSS, Django, Fast Api etc.. |
 | **💞️ Looking to Collaborate On** | Data science, Full-stack web development & other interesting projects |
 
