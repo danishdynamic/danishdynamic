@@ -3,17 +3,15 @@
 #  Ali Dara Sk
 ### ✨ Self Taught Developer : Crafting robust web solutions & exploring the data universe ✨
 
-<img src="URL_TO_YOUR_IMAGE" width="100%" alt="Ali Dara Sk Header">
-
 ---
 
 ### 🚀 Technical Universe
 
 | 🔭 Exploring | 🛠️ Toolkit | 🎯 Goals |
 | :--- | :--- | :--- |
-| **Web Development** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | Full-stack Mastery |
-| **Data Science** | ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) | Algorithmic Insights |
-| **Quant Finance** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | Financial Modeling |
+| **Web Development** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  ![TailwindCss](https://img.shields.io/badge/TailwindCss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB) | Frontend Dev|
+| **Backend Development** | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-092E20?style=for-the-badge&logo=flask&logoColor=white) ![Docker](https://img.shields.io/badge/docker-092E20?style=for-the-badge&logo=docker&logoColor=blue)| Backend Development |
+
 
 ---
 
@@ -27,18 +25,8 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=danishdynamic&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishdynamic&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" height="150" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate
-I'm looking for opportunities in **Data Science**, **Full-Stack Development**, and **Quant Finance**.
 
 [<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:skalidara@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
