@@ -46,14 +46,13 @@
 
 ### 🌟 Featured Projects
 
-- **Real-Time Voting System**  
-  Event-driven architecture using Python, Kafka, and Redis for high-concurrency processing  
+- **Real-Time Voting System**  : Event-driven architecture using Python, Kafka, and Redis for high-concurrency processing  
 
-- **PERN Stack on AWS**  
-  Deployed full-stack application using EC2, RDS, S3, and CloudFront with production configuration  
+- **PERN Stack on AWS**   : Deployed full-stack application using EC2, RDS, S3, and CloudFront with production configuration  
 
-- **HFT Order Book (C)**  
-  Low-level implementation optimized for memory alignment and cache efficiency  
+- **HFT Order Book (C)**  : Low-level implementation optimized for memory alignment and cache efficiency
+
+- **OGC-MCP-Bridge**      : OGC API - Processes standard with the Model Context Protocol (MCP)
 
 ---
 
