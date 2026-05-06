@@ -52,7 +52,7 @@
 
 - **HFT Order Book (C)**  : Low-level implementation optimized for memory alignment and cache efficiency
 
-- **OGC-MCP-Bridge**      : OGC API - Processes standard with the Model Context Protocol (MCP)
+- **OGC-MCP-Bridge**      : OGC API - Processes standard with the Model Context Protocol (MCP) GSoC 2026
 
 ---
 
