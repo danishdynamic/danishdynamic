@@ -26,14 +26,14 @@
 
 ### 🛠️ Technical Ecosystem
 
-| Category          | Toolkit                                             |
-| :---------------- | :-------------------------------------------------- |
-| **Languages**     | Python, JavaScript (Node.js), C, SQL (PostgreSQL)   |
-| **Backend**       | FastAPI, Django, Express, Kafka, Redis              |
-| **AI / LLM**      | RAG, Agentic AI, MCP, OpenAI APIs, Vector Databases |
-| **Frontend**      | React, Next.js, Tailwind CSS                        |
-| **Cloud & Infra** | AWS (EC2, RDS, S3), Docker, Kubernetes, Nginx       |
-| **CI/CD**         | GitHub Actions                                      |
+| Category          | Toolkit                                                                  |
+| :---------------- | :------------------------------------------------------------------------|
+| **Languages**     | Python, JavaScript (Node.js), C, SQL (PostgreSQL)                        |
+| **Backend**       | FastAPI, Django, Express, Kafka, Redis                                   |
+| **AI / LLM**      | RAG, Agentic AI{Langchain,LangGraph}, MCP, OpenAI APIs, Vector Databases |
+| **Frontend**      | React, Next.js, Tailwind CSS                                             |
+| **Cloud & Infra** | AWS (EC2, RDS, S3), Docker, Kubernetes, Nginx                            |
+| **CI/CD**         | GitHub Actions                                                           |
 
 ---
 
