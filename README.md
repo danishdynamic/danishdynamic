@@ -4,11 +4,17 @@
 
 ### Backend Engineer • AI Engineer (RAG & Agentic Systems) • Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ali-dara-sk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:skalidara@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat\&logo=notion\&logoColor=white)](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-dara-sk/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skalidara@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
 
-**Building scalable backend systems, AI-powered applications, distributed architectures, and cloud-native platforms.**
+**Building scalable backend architectures, orchestration layers for Agentic AI, and cloud-native infrastructure.**
+
+---
+
+<p align="center">
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab11edb2de/1544111322055-W2N4XG97I6C23G5OJU5Q/ke17ZwdGBToddI8pDm48kOf88I1kM50e1K8wNl27Nl0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoYcJHIK636_C4GgIdz8f09E2_Jj98TqLz94ZfQ4V9m1S_t8T9FjH/Coding.gif" width="60%" />
+</p>
 
 ---
 
@@ -16,67 +22,68 @@
 
 ### 🔭 Professional Snapshot
 
-* **AI Engineering:** Building RAG pipelines, Agentic AI workflows, MCP integrations, and LLM-powered applications
-* **Cloud Native:** Contributing to Spiderpool-io / Kubernetes (RBAC & Dynamic Resource Allocation - DRA)
-* **Systems Programming:** Developing low-latency components in C for matching engines
-* **Distributed Systems:** Designing event-driven systems using Kafka, Redis, Python, and PostgreSQL
-* **Healthcare Interoperability:** Delivered solutions using openEHR and HL7 FHIR standards
+* **AI Engineering:** Architecting RAG pipelines, multi-agent workflows, Model Context Protocol (MCP) integrations, and complex LLM orchestration.
+* **Cloud Native & K8s:** Active contributor to the Kubernetes ecosystem (Spiderpool-io), specializing in RBAC and Dynamic Resource Allocation (DRA).
+* **Systems Programming:** Developing low-latency, high-throughput components in C for matching engines and high-frequency trading simulations.
+* **Distributed Architectures:** Designing high-concurrency, event-driven backends using Kafka, Redis, Python, and PostgreSQL.
+* **Healthcare Interoperability:** Delivering production-grade data pipelines utilizing openEHR and HL7 FHIR compliance frameworks.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| Category          | Toolkit                                                                  |
-| :---------------- | :------------------------------------------------------------------------|
-| **Languages**     | Python, JavaScript (Node.js), C, SQL (PostgreSQL)                        |
-| **Backend**       | FastAPI, Django, Express, Kafka, Redis                                   |
-| **AI / LLM**      | RAG, Agentic AI{Langchain,LangGraph}, MCP, OpenAI APIs, Vector Databases |
-| **Frontend**      | React, Next.js, Tailwind CSS                                             |
-| **Cloud & Infra** | AWS (EC2, RDS, S3), Docker, Kubernetes, Nginx                            |
-| **CI/CD**         | GitHub Actions                                                           |
+| Category | Toolkit |
+| :--- | :--- |
+| **Languages** | Python, JavaScript (Node.js), C, SQL (PostgreSQL, MySQL) |
+| **Backend & Messaging** | FastAPI, Django, Express.js, Apache Kafka, Redis |
+| **AI / Intelligent Systems** | Agentic AI (LangChain, LangGraph), RAG, MCP, Vector Databases, OpenAI APIs |
+| **Cloud & Infrastructure** | AWS (EC2, RDS, S3, CloudFront), Docker, Kubernetes, Nginx |
+| **Frontend & UI** | React.js, Next.js, Tailwind CSS |
+| **CI/CD & DevOps** | GitHub Actions, Sentry, Linux Systems Administration |
 
 ---
 
 ### 🚀 Open Source Contributions
 
-| Project                      | Status      | Contribution                                                                          |
-| :--------------------------- | :---------- | :------------------------------------------------------------------------------------ |
-| **kubernetes/Spiderpool-io** | ✅ Merged    | RBAC enhancements for resource claims (DRA v1.36)                                     |
-| **OpenClimateFix**           | ✅ Merged    | Integrated Sentry logging and monitoring                                              |
-| **52North**                  | ⚪ Closed    | Kubernetes-based geospatial integration improvements (Issue cancelled by maintainers) |
-| **cryptotoolbox**            | ⏳ In Review | Performance optimization for matching engine in C                                     |
+| Project | Status | Contribution |
+| :--- | :--- | :--- |
+| **kubernetes/Spiderpool-io** | 🎉 Merged | Implemented RBAC enhancements for resource claims under DRA (v1.36) |
+| **OpenClimateFix** | 🎉 Merged | Integrated comprehensive Sentry logging and application monitoring |
+| **52North** | 🛑 Closed | Kubernetes-based geospatial integration improvements *(Upstream issue cancelled)* |
+| **cryptotoolbox** | ⏳ In Review | Performance optimizations for memory alignment in a C-based matching engine |
 
 ---
 
 ### 🌟 Featured Projects
 
 * **Agentic RAG Platform**
-  Multi-agent knowledge retrieval system using vector search, tool calling, workflow orchestration, and MCP integration
+  * *Tech: LangGraph, FastAPI, VectorDB, MCP*
+  * Multi-agent knowledge retrieval platform featuring dynamic tool calling, runtime graph orchestration, and standardized MCP bridges.
 
-* **Healthcare Interoperability Platform**
-  Implemented openEHR and HL7 FHIR standards for healthcare data exchange and clinical workflow integration
+* **OGC-MCP-Bridge (GSoC 2026)**
+  * *Tech: Python, Model Context Protocol, OGC APIs*
+  * Seamlessly bridging the OGC API (Processes Standard) with the Anthropic-backed Model Context Protocol to bring geospatial computing into LLM ecosystems.
 
-* **Real-Time Voting System**
-  Event-driven architecture using Python, Kafka, and Redis for high-concurrency processing
+* **Healthcare Interoperability Engine**
+  * *Tech: Python, openEHR, HL7 FHIR*
+  * Compliant data exchange platform designed to standardize clinical workflows and ingest multi-source healthcare data safely.
 
-* **PERN Stack on AWS**
-  Deployed full-stack application using EC2, RDS, S3, CloudFront, Docker, and production-grade configuration
+* **High-Frequency Trading (HFT) Order Book**
+  * *Tech: Pure C*
+  * A low-latency order-matching engine built from scratch. Optimizations focused entirely on memory alignment, cache locality, and minimal instruction counts.
 
-* **HFT Order Book (C)**
-  Low-level implementation optimized for memory alignment, cache locality, and low-latency performance
-
-* **OGC-MCP-Bridge**
-  OGC API - Processes standard integration with the Model Context Protocol (MCP) — GSoC 2026
+* **Real-Time Event-Driven Voting System**
+  * *Tech: Python, Apache Kafka, Redis*
+  * Distributed, fault-tolerant backend built to handle extreme spikes in concurrent requests with reliable transaction delivery.
 
 ---
 
-### 🎯 Current Focus
+### 🎯 Current Focus Areas
 
-* Agentic AI Systems
-* Retrieval-Augmented Generation (RAG)
-* Kubernetes & Cloud-Native Infrastructure
-* Distributed Systems Design
-* Healthcare Data Standards (openEHR & FHIR)
+* Production-grade Agentic AI Design Patterns
+* Deepening Kubernetes DRA & Controller mechanics
+* Low-latency networking paradigms in C/Rust
+* Advanced distributed data sharding strategies
 
 ---
 
