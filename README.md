@@ -12,9 +12,11 @@
 
 ---
 
-<p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab11edb2de/1544111322055-W2N4XG97I6C23G5OJU5Q/ke17ZwdGBToddI8pDm48kOf88I1kM50e1K8wNl27Nl0UqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoYcJHIK636_C4GgIdz8f09E2_Jj98TqLz94ZfQ4V9m1S_t8T9FjH/Coding.gif" width="60%" />
-</p>
+<div align="left">
+
+🤖 **AI Orchestration** &nbsp;&bull;&nbsp; 🕸️ **Distributed Backends** &nbsp;&bull;&nbsp; ☸️ **Cloud-Native Infrastructure** &nbsp;&bull;&nbsp; ⚡ **Low-Latency Systems**
+
+</div>
 
 ---
 
@@ -38,7 +40,7 @@
 | **Backend & Messaging** | FastAPI, Django, Express.js, Apache Kafka, Redis |
 | **AI / Intelligent Systems** | Agentic AI (LangChain, LangGraph), RAG, MCP, Vector Databases, OpenAI APIs |
 | **Cloud & Infrastructure** | AWS (EC2, RDS, S3, CloudFront), Docker, Kubernetes, Nginx |
-| **Frontend & UI** | React.js, Next.js, Tailwind CSS |
+| **Frontend & UI** | React.js, Next.js, Tailwind CSS, Hooks, Zustand |
 | **CI/CD & DevOps** | GitHub Actions, Sentry, Linux Systems Administration |
 
 ---
