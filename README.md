@@ -12,7 +12,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 🤖 **AI Orchestration** &nbsp;&bull;&nbsp; 🕸️ **Distributed Backends** &nbsp;&bull;&nbsp; ☸️ **Cloud-Native Infrastructure** &nbsp;&bull;&nbsp; ⚡ **Low-Latency Systems**
 
