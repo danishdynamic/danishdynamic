@@ -12,14 +12,6 @@
 
 ---
 
-<div align="center">
-
-🤖 **AI Orchestration** &nbsp;&bull;&nbsp; 🕸️ **Distributed Backends** &nbsp;&bull;&nbsp; ☸️ **Cloud-Native Infrastructure** &nbsp;&bull;&nbsp; ⚡ **Low-Latency Systems**
-
-</div>
-
----
-
 </div>
 
 ### 🔭 Professional Snapshot
@@ -54,38 +46,6 @@
 | **52North** | 🛑 Closed | Kubernetes-based geospatial integration improvements *(Upstream issue cancelled)* |
 | **cryptotoolbox** | ⏳ In Review | Performance optimizations for memory alignment in a C-based matching engine |
 
----
-
-### 🌟 Featured Projects
-
-* **Agentic RAG Platform**
-  * *Tech: LangGraph, FastAPI, VectorDB, MCP*
-  * Multi-agent knowledge retrieval platform featuring dynamic tool calling, runtime graph orchestration, and standardized MCP bridges.
-
-* **OGC-MCP-Bridge (GSoC 2026)**
-  * *Tech: Python, Model Context Protocol, OGC APIs*
-  * Seamlessly bridging the OGC API (Processes Standard) with the Anthropic-backed Model Context Protocol to bring geospatial computing into LLM ecosystems.
-
-* **Healthcare Interoperability Engine**
-  * *Tech: Python, openEHR, HL7 FHIR*
-  * Compliant data exchange platform designed to standardize clinical workflows and ingest multi-source healthcare data safely.
-
-* **High-Frequency Trading (HFT) Order Book**
-  * *Tech: Pure C*
-  * A low-latency order-matching engine built from scratch. Optimizations focused entirely on memory alignment, cache locality, and minimal instruction counts.
-
-* **Real-Time Event-Driven Voting System**
-  * *Tech: Python, Apache Kafka, Redis*
-  * Distributed, fault-tolerant backend built to handle extreme spikes in concurrent requests with reliable transaction delivery.
-
----
-
-### 🎯 Current Focus Areas
-
-* Production-grade Agentic AI Design Patterns
-* Deepening Kubernetes DRA & Controller mechanics
-* Low-latency networking paradigms in C/Rust
-* Advanced distributed data sharding strategies
 
 ---
 
