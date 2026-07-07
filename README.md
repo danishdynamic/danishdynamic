@@ -2,7 +2,7 @@
 
 # Ali Dara Sk
 
-### Backend Engineer • AI Engineer (RAG & Agentic Systems) • Open Source Contributor
+### Full Stack Engineer • AI Engineer (RAG & Agentic Systems) • Open Source Contributor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-dara-sk/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skalidara@gmail.com)
