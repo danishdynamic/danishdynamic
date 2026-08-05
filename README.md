@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skalidara@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
 
-**Building scalable backend architectures, orchestration layers for Agentic AI, and cloud-native infrastructure.**
+**Building scalable backend architectures, orchestration layers for Agentic AI, and cloud native infrastructure.**
 
 ---
 
@@ -16,11 +16,11 @@
 
 ### 🔭 Professional Snapshot
 
-* **AI Engineering:** Architecting RAG pipelines, multi-agent workflows, Model Context Protocol (MCP) integrations, and complex LLM orchestration.
-* **Cloud Native & K8s:** Active contributor to the Kubernetes ecosystem (Spiderpool-io), specializing in RBAC and Dynamic Resource Allocation (DRA).
-* **Systems Programming:** Developing low-latency, high-throughput components in C for matching engines and high-frequency trading simulations.
-* **Distributed Architectures:** Designing high-concurrency, event-driven backends using Kafka, Redis, Python, and PostgreSQL.
-* **Healthcare Interoperability:** Delivering production-grade data pipelines utilizing openEHR and HL7 FHIR compliance frameworks.
+* **AI Engineering:** Architecting RAG pipelines, multi agent workflows, Model Context Protocol (MCP) integrations, and complex LLM orchestration.
+* **Cloud Native & K8s:** Active contributor to the Kubernetes ecosystem (Spiderpool io), specializing in RBAC and Dynamic Resource Allocation (DRA).
+* **Systems Programming:** Developing low latency, high throughput components in C for matching engines and high frequency trading simulations.
+* **Distributed Architectures:** Designing high concurrency, event driven backends using Kafka, Redis, Python, and PostgreSQL.
+* **Healthcare Interoperability:** Delivering production grade data pipelines utilizing openEHR and HL7 FHIR compliance frameworks.
 
 ---
 
@@ -43,8 +43,8 @@
 | :--- | :--- | :--- |
 | **kubernetes/Spiderpool-io** | 🎉 Merged | Implemented RBAC enhancements for resource claims under DRA (v1.36) |
 | **OpenClimateFix** | 🎉 Merged | Integrated comprehensive Sentry logging and application monitoring |
-| **52North** | 🛑 Closed | Kubernetes-based geospatial integration improvements *(Upstream issue cancelled)* |
-| **cryptotoolbox** | ⏳ In Review | Performance optimizations for memory alignment in a C-based matching engine |
+| **52North** | 🛑 Closed | Kubernetes based geospatial integration improvements *(Upstream issue cancelled)* |
+| **cryptotoolbox** | ⏳ In Review | Performance optimizations for memory alignment in a C based matching engine |
 
 
 ---
