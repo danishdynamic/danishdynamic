@@ -29,10 +29,11 @@
 | Category | Toolkit |
 | :--- | :--- |
 | **Languages** | Python, JavaScript (Node.js), C, SQL (PostgreSQL, MySQL) |
-| **Backend & Messaging** | FastAPI, Django, Express.js, Apache Kafka, Redis |
+| **Backend & Messaging** | FastAPI, Django, Express.js, Nestjs, Apache Kafka, Redis |
 | **AI / Intelligent Systems** | Agentic AI (LangChain, LangGraph), RAG, MCP, Vector Databases, OpenAI / Gemini APIs |
 | **Cloud & Infrastructure** | AWS (EC2, RDS, S3, CloudFront), Docker, Kubernetes, Nginx |
-| **Frontend & UI** | React.js, Next.js, Tailwind CSS, TanStack Query, Zustand |
+| **Database** | SQL, SQLite, PostgreSQL/Postgres , PgVector, PostGIS |
+| **Frontend & UI** | React.js, Next.js, Tailwind CSS, Framer, TanStack Query, Zustand |
 | **CI/CD & DevOps** | GitHub Actions, Sentry, Linux Systems Administration |
 
 ---
