@@ -2,54 +2,88 @@
 
 # Ali Dara Sk
 
-### Full Stack Engineer • AI Engineer (RAG & Agentic Systems) • Open Source Contributor
+### Full Stack Engineer • AI Architect (RAG & Agentic Systems) • Open Source Contributor
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-dara-sk/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:skalidara@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white)](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
 
-**Building scalable backend architectures, orchestration layers for Agentic AI, and cloud native infrastructure.**
+[![Commits](https://img.shields.io/badge/Commits-Turning%20Coffee%20%E2%98%95%20Into%20Code-2b2b2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skalidara)
+[![Git Push](https://img.shields.io/badge/Git%20Push-Direct%20to%20Prod%20%F0%9F%94%A5-DC143C?style=for-the-badge&logo=git&logoColor=white)](https://github.com/skalidara)
 
----
+[![Issues Killed](https://img.shields.io/badge/Issues%20Killed-%F0%9F%90%9B%20%2F%20No%20Mercy-FF4500?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/skalidara)
+[![Bug Status](https://img.shields.io/badge/Bugs%20Found-Not%20In%20My%20Code%20%F0%9F%A4%B7-9b59b6?style=for-the-badge&logo=sentry&logoColor=white)](https://github.com/skalidara)
 
 </div>
 
-### 🔭 Professional Snapshot
+<br/>
 
-* **AI Engineering:** Architecting RAG pipelines, multi agent workflows, Model Context Protocol (MCP) integrations, and complex LLM orchestration.
-* **Cloud Native & K8s:** Active contributor to the Kubernetes ecosystem (Spiderpool io), specializing in RBAC and Dynamic Resource Allocation (DRA).
-* **Systems Programming:** Developing low latency, high throughput components in C for matching engines and high frequency trading simulations.
-* **Distributed Architectures:** Designing high concurrency, event driven backends using Kafka, Redis, Python, and PostgreSQL.
-* **Healthcare Interoperability:** Delivering production grade data pipelines utilizing openEHR and HL7 FHIR compliance frameworks.
+> **Architecting high concurrency backend systems, cloud native infrastructure, and production grade Agentic AI.**
+
+</div>
+
+---
+
+### ⚡ Executive Overview
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│  AI Architecture    ──► RAG, Multi Agent (LangGraph), MCP Integration    │
+│  Cloud & Infrastructure ─► Kubernetes (DRA / RBAC), Docker, AWS          │
+│  Backend Systems    ──► Python, C, High Throughput Streaming (Kafka)    │
+│  Domain Expertise   ──► Healthcare Interoperability (openEHR, FHIR)     │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+* **🤖 AI Engineering & Orchestration:** Designing enterprise RAG pipelines, multi agent orchestrations with LangGraph, and custom Model Context Protocol (MCP) servers.
+* **☁️ Cloud-Native & Systems:** Active contributor to the Kubernetes ecosystem (Spiderpool), specializing in Dynamic Resource Allocation (DRA) and low latency C systems.
+* **⚡ Distributed Systems:** Engineering high concurrency microservices, real time message streaming, and low latency caching architectures using Python, Apache Kafka, Redis, and PostgreSQL.
+* **🏥 Healthcare Interoperability:** Building compliant, production grade data pipelines using openEHR and HL7 FHIR frameworks.
 
 ---
 
 ### 🛠️ Technical Ecosystem
 
-| Category | Toolkit |
-| :--- | :--- |
-| **Languages** | Python, JavaScript (Node.js), C, SQL (PostgreSQL, MySQL) |
-| **Backend & Messaging** | FastAPI, Django, Express.js, Nestjs, Apache Kafka, Redis |
-| **AI / Intelligent Systems** | Agentic AI (LangChain, LangGraph), RAG, MCP, Vector Databases, OpenAI / Gemini APIs |
-| **Cloud & Infrastructure** | AWS (EC2, RDS, S3, CloudFront), Docker, Kubernetes, Nginx |
-| **Database** | SQL, SQLite, PostgreSQL/Postgres , PgVector, PostGIS |
-| **Frontend & UI** | React.js, Next.js, Tailwind CSS, Framer, TanStack Query, Zustand |
-| **CI/CD & DevOps** | GitHub Actions, Sentry, Linux Systems Administration |
+```
+   Languages   │ Python • C • JavaScript / TypeScript • SQL
+   Backend     │ FastAPI • Django • NestJS • Express.js • Apache Kafka • Redis
+   AI & RAG    │ LangGraph • LangChain • MCP • Vector DBs (PgVector) • Gemini / OpenAI APIs
+   Cloud & Ops │ Kubernetes (DRA / RBAC) • AWS (EC2, S3, RDS) • Docker • GitHub Actions • Sentry
+   Databases   │ PostgreSQL • PostGIS • PgVector • MySQL • SQLite
+   Frontend    │ React.js • Next.js • Tailwind CSS • Framer Motion • TanStack Query
+```
 
 ---
 
-### 🚀 Open Source Contributions
+### 🚀 Featured Open Source Work
 
-| Project | Status | Contribution |
-| :--- | :--- | :--- |
-| **kubernetes/Spiderpool-io** | 🎉 Merged | Implemented RBAC enhancements for resource claims under DRA (v1.36) |
-| **OpenClimateFix** | 🎉 Merged | Integrated comprehensive Sentry logging and application monitoring |
-| **52North** | 🛑 Closed | Kubernetes based geospatial integration improvements *(Upstream issue cancelled)* |
-| **cryptotoolbox** | ⏳ In Review | Performance optimizations for memory alignment in a C based matching engine |
+> **[kubernetes / Spiderpool-io](https://github.com/spidernet-io/spiderpool)**  
+> *Merged • Dynamic Resource Allocation (v1.36)*  
+> Implemented RBAC enhancements for Kubernetes resource claims under the new Dynamic Resource Allocation (DRA) framework.
 
+> **[OpenClimateFix](https://github.com/openclimatefix)**  
+> *Merged • Observability & Monitoring*  
+> Integrated Sentry logging, trace propagation, and application health monitoring into core services.
+
+> **[cryptotoolbox](https://github.com/)**  
+> *In Review • Performance Optimization*  
+> Low-level memory alignment optimizations for a C based high frequency matching engine.
 
 ---
+
+<details>
+<summary><b>📫 Let's Connect</b></summary>
+<br/>
+
+* **LinkedIn:** [linkedin Profile](https://www.linkedin.com/in/ali-dara-sk/)
+* **Email:** [My Email](mailto:skalidara@gmail.com)
+* **Interactive Resume:** [Notion Portfolio](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
+
+</details>
+
+<br/>
 
 <div align="center">
-  <sub>"Simplicity is the soul of efficiency." — Austin Freeman</sub>
+
+```
+"Make it work, make it right, make it fast." — Kent Beck
+```
+
 </div>
