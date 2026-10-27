@@ -8,7 +8,7 @@ My work spans **backend development, agentic AI workflows, retrieval augmented g
 
 With a background in business development, marketing, and analytics, I bring a product minded approach to software engineering: understanding the problem, building a solution, and measuring its value.
 
-- 🔭 **Currently exploring:** Backend engineering, AI application development, and open source software
+- 🔭 **Currently exploring:** Backend engineering, AI application development, and open-source software
 - 🤖 **AI & LLMs:** LangChain, LangGraph, RAG, MCP, vector search
 - ⚙️ **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs
 - 🗄️ **Data:** PostgreSQL, pgvector, Redis, PostGIS
@@ -18,47 +18,74 @@ With a background in business development, marketing, and analytics, I bring a p
 
 ---
 
+## 🛠️ Technology Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. Agentic Sustainability Intelligence Platform
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
+[![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-1C3C3C?style=flat-square)](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
+[![pgvector](https://img.shields.io/badge/pgvector-RAG-4169E1?style=flat-square)](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
 
-**Python · FastAPI · LangGraph · RAG · PostgreSQL · pgvector · React**
+An AI application for sustainability research and environmental risk analysis using retrieval pipelines and multi step agent workflows.
 
-An AI application for sustainability research and environmental risk analysis, using retrieval pipelines and multi step agent workflows.
-
-- Implemented agent orchestration and tool integrations using LangGraph.
-- Developed retrieval functionality using vector search and supporting retrieval techniques.
-- Explored human-in-the-loop review and workflow control.
+- Built multi step agent orchestration and human-in-the-loop review control using LangGraph and FastAPI.
+- Implemented hybrid vector search using PostgreSQL and `pgvector` for granular domain retrieval.
 
 [View Repository](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
 
+---
+
 ### 2. Clinical EHR & FHIR Stack
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=flat-square&logo=next.js&logoColor=white)](https://github.com/danishdynamic/Clinical-Ehr-Fhir-Stack)
+[![FHIR](https://img.shields.io/badge/FHIR-Interoperability-Flame?style=flat-square&color=E84E33)](https://github.com/danishdynamic/Clinical-Ehr-Fhir-Stack)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)](https://github.com/danishdynamic/Clinical-Ehr-Fhir-Stack)
 
-**Python · Next.js · PostgreSQL · FHIR · openEHR**
+A healthcare software project exploring electronic health record (EHR) workflows and clinical system interoperability.
 
-A healthcare software project exploring electronic health record workflows and interoperability between clinical data systems.
-
-- Worked on healthcare data modeling and FHIR-oriented interoperability.
-- Explored API driven clinical workflows, access control, and audit logging.
+- Modeled healthcare data structures adhering to FHIR and openEHR standards for secure interoperability.
+- Engineered API driven clinical workflows complete with role based access control (RBAC) and audit logging.
 
 [View Repository](https://github.com/danishdynamic/Clinical-Ehr-Fhir-Stack)
 
+---
+
 ### 3. Urban Heat Island Real Estate Pricing Engine
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/danishdynamic/Urban-Heat-Island-Real-Estate-Asset-Pricing-Engine)
+[![Geospatial](https://img.shields.io/badge/Geospatial-PostGIS-green?style=flat-square)](https://github.com/danishdynamic/Urban-Heat-Island-Real-Estate-Asset-Pricing-Engine)
+[![DCF Modeling](https://img.shields.io/badge/Finance-DCF_Model-gold?style=flat-square)](https://github.com/danishdynamic/Urban-Heat-Island-Real-Estate-Asset-Pricing-Engine)
 
-**Python · Machine Learning · Geospatial Data · Financial Modeling**
+A climate tech and real estate valuation engine analyzing environmental impacts on long term property asset values.
 
-A project combining climate related analysis with real estate valuation to explore how environmental factors can affect property costs and investment decisions.
-
-- Combined temperature forecasting concepts with energy cost estimates.
-- Applied discounted cash flow (DCF) modeling to examine potential climate-related impacts on property valuation.
+- Combined local climate forecasting datasets with building energy expenditure estimates.
+- Applied discounted cash flow (DCF) modeling to quantify climate driven risk factors in property valuations.
 
 [View Repository](https://github.com/danishdynamic/Urban-Heat-Island-Real-Estate-Asset-Pricing-Engine)
 
+---
+
 ### 4. OGC API to MCP Integration Bridge
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/danishdynamic)
+[![MCP](https://img.shields.io/badge/MCP-Protocol-purple?style=flat-square)](https://github.com/danishdynamic)
+[![REST APIs](https://img.shields.io/badge/APIs-REST-blue?style=flat-square)](https://github.com/danishdynamic)
 
-**Python · REST APIs · Model Context Protocol · Geospatial Interoperability**
+An integration layer exposing geospatial processing capabilities to LLMs via standard protocols.
 
-A bridge exploring how geospatial processing capabilities exposed through OGC APIs can be connected to AI applications using MCP.
+- Connected OGC API geospatial workflows directly to AI tools through Model Context Protocol (MCP).
 
 [View Repository](https://github.com/danishdynamic)
 
@@ -66,35 +93,19 @@ A bridge exploring how geospatial processing capabilities exposed through OGC AP
 
 ## 🌍 Open-Source Contributions
 
-I contribute to open source projects across backend development, cloud native infrastructure, and climate technology.
+I active contribute to open source software across backend infrastructure, cloud native tooling, and climate tech:
 
-- **[Spiderpool](https://github.com/spidernet-io/spiderpool):** Kubernetes networking and IP address management. Add a direct link to your relevant pull request and briefly describe the change you implemented.
-- **[OpenClimateFix](https://github.com/openclimatefix):** Python tooling and solar energy forecasting infrastructure. Link to your specific contribution and describe the feature, fix, or tests you worked on.
-- **[Other Contributions](https://github.com/danishdynamic):** Explore my repositories and open-source work.
-
----
-
-## 🛠️ Technology Stack
-
-| Area | Technologies |
-|---|---|
-| Languages | Python, JavaScript, TypeScript, SQL |
-| Backend | FastAPI, Node.js, Express.js, REST APIs |
-| AI Engineering | LangChain, LangGraph, RAG, MCP, pgvector |
-| Databases | PostgreSQL, Redis, MongoDB, PostGIS |
-| Frontend | React, Next.js, Tailwind CSS |
-| Infrastructure | Docker, Kubernetes, AWS, GitHub Actions |
-| Engineering Practices | Git, API integration, automated testing, debugging |
+- **[Spiderpool](https://github.com/spidernet-io/spiderpool):** Worked on Kubernetes networking and IP address management (IPAM) enhancements.
+- **[OpenClimateFix](https://github.com/openclimatefix):** Contributed to Python tooling and solar energy forecasting infrastructure.
+- **[More Open Source](https://github.com/danishdynamic):** Explore all my active repositories and public activity on GitHub.
 
 ---
 
 ## 📫 Connect With Me
 
-- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ali-dara-sk/)
-- **Email:** [Get in touch](mailto:skalidara@gmail.com)
-- **Portfolio & Resume:** [View my portfolio](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
-
-I'm open to opportunities in backend engineering, AI application development, and full stack development, as well as interesting open source collaborations.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-dara-sk/)
+[![Gmail](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skalidara@gmail.com)
+[![Notion](https://img.shields.io/badge/Portfolio-View_Resume-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
 
 ---
 
