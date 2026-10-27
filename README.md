@@ -1,89 +1,101 @@
-<div align="center">
+# Hi, I'm Ali Dara 👋
 
-# Ali Dara Sk
+### Backend & AI Application Developer | Python · Node.js · TypeScript
 
-### Full Stack Engineer • AI Architect (RAG & Agentic Systems) • Open Source Contributor
+I build backend services, AI powered applications, and API driven systems with a focus on practical engineering problems.
 
+My work spans **backend development, agentic AI workflows, retrieval augmented generation (RAG), full stack applications, and cloud native technologies**. I also contribute to open source projects involving backend infrastructure, climate technology, and Kubernetes networking.
 
-[![Commits](https://img.shields.io/badge/Commits-Turning%20Coffee%20%E2%98%95%20Into%20Code-2b2b2b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/skalidara)
-[![Git Push](https://img.shields.io/badge/Git%20Push-Direct%20to%20Prod%20%F0%9F%94%A5-DC143C?style=for-the-badge&logo=git&logoColor=white)](https://github.com/skalidara)
+With a background in business development, marketing, and analytics, I bring a product minded approach to software engineering: understanding the problem, building a solution, and measuring its value.
 
-[![Issues Killed](https://img.shields.io/badge/Issues%20Killed-%F0%9F%90%9B%20%2F%20No%20Mercy-FF4500?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/skalidara)
-[![Bug Status](https://img.shields.io/badge/Bugs%20Found-Not%20In%20My%20Code%20%F0%9F%A4%B7-9b59b6?style=for-the-badge&logo=sentry&logoColor=white)](https://github.com/skalidara)
-
-</div>
-
-<br/>
-
-> **Architecting high concurrency backend systems, cloud native infrastructure, and production grade Agentic AI.**
-
-</div>
+- 🔭 **Currently exploring:** Backend engineering, AI application development, and open source software
+- 🤖 **AI & LLMs:** LangChain, LangGraph, RAG, MCP, vector search
+- ⚙️ **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs
+- 🗄️ **Data:** PostgreSQL, pgvector, Redis, PostGIS
+- ☁️ **Infrastructure:** Docker, Kubernetes, AWS, GitHub Actions
+- 🎨 **Frontend:** React, Next.js, TypeScript
+- 🌱 **Interested in:** AI products, distributed systems, developer tools, and climate technology
 
 ---
 
-### ⚡ Executive Overview
+## 🚀 Featured Projects
 
-```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  AI Architecture    ──► RAG, Multi Agent (LangGraph), MCP Integration    │
-│  Cloud & Infrastructure ─► Kubernetes (DRA / RBAC), Docker, AWS          │
-│  Backend Systems    ──► Python, C, High Throughput Streaming (Kafka)    │
-│  Domain Expertise   ──► Healthcare Interoperability (openEHR, FHIR)     │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+### 1. Agentic Sustainability Intelligence Platform
 
-* **🤖 AI Engineering & Orchestration:** Designing enterprise RAG pipelines, multi agent orchestrations with LangGraph, and custom Model Context Protocol (MCP) servers.
-* **☁️ Cloud-Native & Systems:** Active contributor to the Kubernetes ecosystem (Spiderpool), specializing in Dynamic Resource Allocation (DRA) and low latency C systems.
-* **⚡ Distributed Systems:** Engineering high concurrency microservices, real time message streaming, and low latency caching architectures using Python, Apache Kafka, Redis, and PostgreSQL.
-* **🏥 Healthcare Interoperability:** Building compliant, production grade data pipelines using openEHR and HL7 FHIR frameworks.
+**Python · FastAPI · LangGraph · RAG · PostgreSQL · pgvector · React**
+
+An AI application for sustainability research and environmental risk analysis, using retrieval pipelines and multi step agent workflows.
+
+- Implemented agent orchestration and tool integrations using LangGraph.
+- Developed retrieval functionality using vector search and supporting retrieval techniques.
+- Explored human-in-the-loop review and workflow control.
+
+[View Repository](https://github.com/danishdynamic/Agentic-Sustainability-Intelligence-Platform)
+
+### 2. Clinical EHR & FHIR Stack
+
+**Python · Next.js · PostgreSQL · FHIR · openEHR**
+
+A healthcare software project exploring electronic health record workflows and interoperability between clinical data systems.
+
+- Worked on healthcare data modeling and FHIR-oriented interoperability.
+- Explored API driven clinical workflows, access control, and audit logging.
+
+[View Repository](https://github.com/danishdynamic/Clinical-Ehr-Fhir-Stack)
+
+### 3. Urban Heat Island Real Estate Pricing Engine
+
+**Python · Machine Learning · Geospatial Data · Financial Modeling**
+
+A project combining climate related analysis with real estate valuation to explore how environmental factors can affect property costs and investment decisions.
+
+- Combined temperature forecasting concepts with energy cost estimates.
+- Applied discounted cash flow (DCF) modeling to examine potential climate-related impacts on property valuation.
+
+[View Repository](https://github.com/danishdynamic/Urban-Heat-Island-Real-Estate-Asset-Pricing-Engine)
+
+### 4. OGC API to MCP Integration Bridge
+
+**Python · REST APIs · Model Context Protocol · Geospatial Interoperability**
+
+A bridge exploring how geospatial processing capabilities exposed through OGC APIs can be connected to AI applications using MCP.
+
+[View Repository](https://github.com/danishdynamic)
 
 ---
 
-### 🛠️ Technical Ecosystem
+## 🌍 Open-Source Contributions
 
-```
-   Languages   │ Python • C • JavaScript / TypeScript • SQL
-   Backend     │ FastAPI • Django • NestJS • Express.js • Apache Kafka • Redis
-   AI & RAG    │ LangGraph • LangChain • MCP • Vector DBs (PgVector) • Gemini / OpenAI APIs
-   Cloud & Ops │ Kubernetes (DRA / RBAC) • AWS (EC2, S3, RDS) • Docker • GitHub Actions • Sentry
-   Databases   │ PostgreSQL • PostGIS • PgVector • MySQL • SQLite
-   Frontend    │ React.js • Next.js • Tailwind CSS • Framer Motion • TanStack Query
-```
+I contribute to open source projects across backend development, cloud native infrastructure, and climate technology.
+
+- **[Spiderpool](https://github.com/spidernet-io/spiderpool):** Kubernetes networking and IP address management. Add a direct link to your relevant pull request and briefly describe the change you implemented.
+- **[OpenClimateFix](https://github.com/openclimatefix):** Python tooling and solar energy forecasting infrastructure. Link to your specific contribution and describe the feature, fix, or tests you worked on.
+- **[Other Contributions](https://github.com/danishdynamic):** Explore my repositories and open-source work.
 
 ---
 
-### 🚀 Featured Open Source Work
+## 🛠️ Technology Stack
 
-> **[kubernetes / Spiderpool-io](https://github.com/spidernet-io/spiderpool)**  
-> *Merged • Dynamic Resource Allocation (v1.36)*  
-> Implemented RBAC enhancements for Kubernetes resource claims under the new Dynamic Resource Allocation (DRA) framework.
-
-> **[OpenClimateFix](https://github.com/openclimatefix)**  
-> *Merged • Observability & Monitoring*  
-> Integrated Sentry logging, trace propagation, and application health monitoring into core services.
-
-> **[cryptotoolbox](https://github.com/)**  
-> *In Review • Performance Optimization*  
-> Low-level memory alignment optimizations for a C based high frequency matching engine.
+| Area | Technologies |
+|---|---|
+| Languages | Python, JavaScript, TypeScript, SQL |
+| Backend | FastAPI, Node.js, Express.js, REST APIs |
+| AI Engineering | LangChain, LangGraph, RAG, MCP, pgvector |
+| Databases | PostgreSQL, Redis, MongoDB, PostGIS |
+| Frontend | React, Next.js, Tailwind CSS |
+| Infrastructure | Docker, Kubernetes, AWS, GitHub Actions |
+| Engineering Practices | Git, API integration, automated testing, debugging |
 
 ---
 
-<details>
-<summary><b>📫 Let's Connect</b></summary>
-<br/>
+## 📫 Connect With Me
 
-* **LinkedIn:** [linkedin Profile](https://www.linkedin.com/in/ali-dara-sk/)
-* **Email:** [My Email](mailto:skalidara@gmail.com)
-* **Interactive Resume:** [Notion Portfolio](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ali-dara-sk/)
+- **Email:** [Get in touch](mailto:skalidara@gmail.com)
+- **Portfolio & Resume:** [View my portfolio](https://www.notion.so/Sk-Ali-Dara-Developer-Resume-349f0db3c41f800eb21ddeb7ebe0386f)
 
-</details>
+I'm open to opportunities in backend engineering, AI application development, and full stack development, as well as interesting open source collaborations.
 
-<br/>
+---
 
-<div align="center">
-
-```
-"Make it work, make it right, make it fast." — Kent Beck
-```
-
-</div>
+*“Make it work, make it right, make it fast.” — Kent Beck*
