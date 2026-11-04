@@ -8,7 +8,7 @@ My work spans **backend development, agentic AI workflows, retrieval augmented g
 
 With a background in business development, marketing, and analytics, I bring a product minded approach to software engineering: understanding the problem, building a solution, and measuring its value.
 
-- 🔭 **Currently exploring:** Backend engineering, AI application development, and open-source software
+- 🔭 **Currently exploring:** Backend engineering, AI application development, and open source software
 - 🤖 **AI & LLMs:** LangChain, LangGraph, RAG, MCP, vector search
 - ⚙️ **Backend:** Python, FastAPI, Node.js, Express.js, REST APIs
 - 🗄️ **Data:** PostgreSQL, pgvector, Redis, PostGIS
