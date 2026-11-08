@@ -135,15 +135,25 @@
 
 <h2>🌍 Open Source Contributions</h2>
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b><a href="https://github.com/spidernet-io/spiderpool">Spiderpool</a></b>
       <p>Contributed to Kubernetes IPAM networking and IP address management infrastructure enhancements.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <b><a href="https://github.com/openclimatefix">OpenClimateFix</a></b>
       <p>Built Python tooling and data processing pipelines for solar energy forecasting infrastructure.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/Crypto-toolbox/HFT-Orderbook">Crypto-toolbox/HFT-OrderBook</a></b>
+      <p>Contributed to the development of a C based order book, proposing O(1) order cancellation using hash map indexing and order replacement semantics.</p>
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/52North/pygeoapi_k8s-manager">52North/pygeoapi_k8s-manager</a></b>
+      <p>Improved CI/CD pipelines to build multi version support for different Kubernetes releases and tagged Docker Hub images accordingly.</p>
     </td>
   </tr>
 </table>
