@@ -114,7 +114,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>4. <a href="https://github.com/danishdynamic">OGC API to MCP Bridge 🌐</a></h3>
+      <h3>4. <a href="https://github.com/danishdynamic/ogc-mcp-bridge">OGC API to MCP Bridge 🌐</a></h3>
       <p><i>Model Context Protocol (MCP) integration layer exposing geospatial processing to LLMs.</i></p>
       <hr />
       <ul>
